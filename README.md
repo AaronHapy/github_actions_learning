@@ -27,3 +27,9 @@ triggering workflows in multiple ways
 There are many ways we can trigger GitHub workflows:
 
 ![img.png](img.png)
+
+### Workflow Runners
+
+virtual servers that execute jobs from workflows
+
+![img_1.png](img_1.png)
