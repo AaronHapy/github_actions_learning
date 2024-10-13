@@ -33,3 +33,9 @@ There are many ways we can trigger GitHub workflows:
 virtual servers that execute jobs from workflows
 
 ![img_1.png](img_1.png)
+
+### Actions
+
+Custom applications to perform complex, frequently repeated tasks
+
+![img_2.png](img_2.png)
